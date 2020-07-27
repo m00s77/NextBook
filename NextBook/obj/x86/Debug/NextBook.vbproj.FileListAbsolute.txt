@@ -1,0 +1,346 @@
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.read.1.tlog
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.write.1.tlog
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\bin\Debug\NextBook.exe
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\bin\Debug\NextBook.pdb
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\bin\Debug\NextBook.xml
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\NextBook.Form1.resources
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\NextBook.Resources.resources
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\NextBook.exe
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\NextBook.xml
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\NextBook.pdb
+D:\Dropbox\Sérgio\NexBook\source\NextBook\obj\x86\Debug\NextBook.exe
+D:\Dropbox\Sérgio\NexBook\source\NextBook\obj\x86\Debug\NextBook.xml
+D:\Dropbox\Sérgio\NexBook\source\NextBook\obj\x86\Debug\NextBook.pdb
+D:\Dropbox\Sérgio\NexBook\source\NextBook\bin\Debug\NextBook.exe
+D:\Dropbox\Sérgio\NexBook\source\NextBook\bin\Debug\NextBook.pdb
+D:\Dropbox\Sérgio\NexBook\source\NextBook\bin\Debug\NextBook.xml
+D:\Dropbox\Sérgio\NexBook\source\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Sérgio\NexBook\source\NextBook\obj\x86\Debug\NextBook.Form1.resources
+D:\Dropbox\Sérgio\NexBook\source\NextBook\obj\x86\Debug\NextBook.Resources.resources
+D:\Dropbox\Sérgio\NexBook\source\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+D:\Dropbox\Sérgio\NexBook\source\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\bin\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\bin\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\bin\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.Form1.resources
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\m00s\Dropbox\Sérgio\Tools\NexBook\source\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.exe
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.xml
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.pdb
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\bin\Debug\NextBook.exe
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\bin\Debug\NextBook.pdb
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\bin\Debug\NextBook.xml
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.Form1.resources
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.Resources.resources
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+E:\Dropbox\Digitalization ToolKit\Tools\NexBook\source\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\bin\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\bin\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\bin\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.Form1.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.Resources.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\NexBook\source\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook\source\NextBook\bin\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook\source\NextBook\bin\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook\source\NextBook\bin\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\NextBook.Form1.resources
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\erg\Desktop\NextBook\source\NextBook\bin\Debug\Interop.AutoItX3Lib.dll
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\Interop.AutoItX3Lib.dll
+C:\Users\erg\Desktop\NextBook\source\NextBook\obj\x86\Debug\NextBook.vbproj.ResolveComReference.cache
+C:\Users\erg\Desktop\NextBook\source\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\Interop.AutoItX3Lib.dll
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\NextBook.vbproj.ResolveComReference.cache
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook.net\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\erg\Desktop\NextBook.net\NextBook\bin\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook.net\NextBook\bin\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook.net\NextBook\bin\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook.net\NextBook\bin\Debug\Interop.AutoItX3Lib.dll
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\NextBook.Form1.resources
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\erg\Desktop\NextBook.net\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.Form1.resources
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.Form1.resources
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\m00s\Dropbox\Sérgio\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.exe.config
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\AutoItX3.dll
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\bin\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.Form1.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\NextBook.Resources.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 2\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 2\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\bin\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\bin\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\bin\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\NextBook.Form1.resources
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 3\NextBook\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\bin\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\bin\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\bin\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.Form1.resources
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\erg\Desktop\NextBook.net\Source 4\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\bin\Debug\NextBook.exe
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\bin\Debug\NextBook.pdb
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\bin\Debug\NextBook.xml
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\erg\Desktop\New folder (2)\NextBook.net\Source 4\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\bin\Debug\NextBook.exe.config
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\obj\x86\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\obj\x86\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\obj\x86\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\bin\Debug\AutoItX3.dll
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\bin\Debug\NextBook Instructions.pdf
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\bin\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\bin\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\bin\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\obj\x86\Debug\NextBook.Resources.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook.net\Source 5\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\bin\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\bin\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\bin\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\m00s\Dropbox\############\NextBook.net\Source 6(.net)\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\m00s\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook.exe
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook.pdb
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook.xml
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Camera Operator\Dropbox\Sérgio\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Dropbox\Digitalization WorkBench\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\bin\Debug\NextBook.exe.config
+E:\Dropbox\Digitalization WorkBench\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\###  DCam 3.7.1 (.net)  tools  ###\NextBook\NextBook\obj\x86\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\bin\Debug\NextBook.exe.config
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\obj\x86\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\obj\x86\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\obj\x86\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\bin\Debug\AutoItX3.dll
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\bin\Debug\NextBook Instructions.pdf
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\bin\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\bin\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\bin\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\obj\x86\Debug\NextBook.Resources.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\NextBook\obj\x86\Debug\NextBook.vbproj.GenerateResource.Cache
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\erg\Desktop\NextBook\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\erg\Desktop\NextBook\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\erg\Desktop\NextBook\NextBook\bin\Debug\NextBook.exe
+C:\Users\erg\Desktop\NextBook\NextBook\bin\Debug\NextBook.pdb
+C:\Users\erg\Desktop\NextBook\NextBook\bin\Debug\NextBook.xml
+C:\Users\erg\Desktop\NextBook\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+C:\Users\erg\Desktop\NextBook\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\erg\Desktop\NextBook\NextBook\obj\x86\Debug\NextBook.SplashScreen1.resources
+C:\Users\erg\Desktop\NextBook\NextBook\obj\x86\Debug\NextBook.vbproj.GenerateResource.Cache
+C:\Users\erg\Desktop\Source2\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\erg\Desktop\Source2\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\Source2\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\erg\Desktop\Source2\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\Source2\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\erg\Desktop\Source2\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\erg\Desktop\Source2\NextBook\bin\Debug\NextBook.exe
+C:\Users\erg\Desktop\Source2\NextBook\bin\Debug\NextBook.pdb
+C:\Users\erg\Desktop\Source2\NextBook\bin\Debug\NextBook.xml
+C:\Users\erg\Desktop\Source2\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+C:\Users\erg\Desktop\Source2\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\erg\Desktop\Source2\NextBook\obj\x86\Debug\NextBook.SplashScreen1.resources
+C:\Users\erg\Desktop\Source2\NextBook\obj\x86\Debug\NextBook.vbproj.GenerateResource.Cache
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\bin\Debug\AutoItX3.dll
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\bin\Debug\NextBook Instructions.pdf
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\bin\Debug\NextBook.exe.config
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\bin\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\bin\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\bin\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\obj\x86\Debug\NextBook.Resources.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\obj\x86\Debug\NextBook.SplashScreen1.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\obj\x86\Debug\NextBook.vbproj.GenerateResource.Cache
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\obj\x86\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\obj\x86\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source3\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\erg\Desktop\Source3\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\erg\Desktop\Source3\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\erg\Desktop\Source3\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\erg\Desktop\Source3\NextBook\bin\Debug\NextBook.exe
+C:\Users\erg\Desktop\Source3\NextBook\bin\Debug\NextBook.pdb
+C:\Users\erg\Desktop\Source3\NextBook\bin\Debug\NextBook.xml
+C:\Users\erg\Desktop\Source3\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+C:\Users\erg\Desktop\Source3\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\erg\Desktop\Source3\NextBook\obj\x86\Debug\NextBook.SplashScreen1.resources
+C:\Users\erg\Desktop\Source3\NextBook\obj\x86\Debug\NextBook.vbproj.GenerateResource.Cache
+C:\Users\erg\Desktop\Source3\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\erg\Desktop\Source3\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\erg\Desktop\Source3\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\bin\Debug\NextBook.exe
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\bin\Debug\NextBook.pdb
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\bin\Debug\NextBook.xml
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.SplashScreen1.resources
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Camera Operator\Downloads\Nova pasta\NextBook\Source5\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook.exe.config
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.xml
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.Resources.resources
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.SplashScreen1.resources
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\bin\Debug\AutoItX3.dll
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook Instructions.pdf
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook.exe
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook.pdb
+C:\Users\m00s\Dropbox\WorkSpace Tools\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook.exe.config
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\bin\Debug\AutoItX3.dll
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook Instructions.pdf
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook.exe
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook.pdb
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\bin\Debug\NextBook.xml
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.NextBook.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.Resources.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.SplashScreen1.resources
+E:\Dropbox\Digitalization WorkBench\Tools\NextBook\Source5\NextBook\obj\x86\Debug\NextBook.vbproj.GenerateResource.Cache

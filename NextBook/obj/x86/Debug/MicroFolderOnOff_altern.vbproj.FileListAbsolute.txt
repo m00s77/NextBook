@@ -1,0 +1,53 @@
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.exe
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.pdb
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.xml
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.Form1.resources
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.Resources.resources
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.exe
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.xml
+C:\Users\erg\Desktop\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.pdb
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.exe
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.xml
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.pdb
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.exe
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.pdb
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.xml
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.Form1.resources
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.Resources.resources
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.read.1.tlog
+D:\Dropbox\Sérgio\Microfolder alternative\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.write.1.tlog
+D:\Dropbox\Sérgio\Microfolder script\source\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.exe
+D:\Dropbox\Sérgio\Microfolder script\source\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.xml
+D:\Dropbox\Sérgio\Microfolder script\source\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.pdb
+C:\Users\m00s\Dropbox\Sérgio\Microfolder script\source\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.exe
+C:\Users\m00s\Dropbox\Sérgio\Microfolder script\source\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.xml
+C:\Users\m00s\Dropbox\Sérgio\Microfolder script\source\MicroFolderOnOff_altern\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.pdb
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.exe
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.xml
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.pdb
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.Form1.resources
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.Resources.resources
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.write.1.tlog
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.exe
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.pdb
+C:\Users\m00s\Desktop\dcamx\new folder\MicroFolder\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.xml
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.exe
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.xml
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.pdb
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.exe
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.pdb
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\bin\Debug\MicroFolderOnOff_altern.xml
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.Form1.resources
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.Resources.resources
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.read.1.tlog
+C:\Users\m00s\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\ResGen.write.1.tlog
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.exe
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.xml
+D:\Dropbox\Sérgio\NexBook\source\MicroFolderOnOff_altern\obj\x86\Debug\MicroFolderOnOff_altern.pdb

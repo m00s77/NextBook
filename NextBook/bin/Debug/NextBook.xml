@@ -1,0 +1,273 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+NextBook
+</name>
+</assembly>
+<members>
+<member name="M:NextBook.AutoItX.AU3_AutoItSetOption(System.String,System.Int32)">
+	<summary>
+ Changes the operation of various AutoIt functions/parameters.
+ </summary>
+	<param name="Option">The option to change. See Remarks in help documentation.
+ CaretCoordMode
+ MouseClickDelay
+ MouseClickDownDelay
+ MouseClickDragDelay
+ MouseCoordMode
+ PixelCoordMode
+ SendAttachMode
+ SendCapslockMode
+ SendKeyDelay
+ SendKeyDownDelay
+ WinDetectHiddenText
+ WinSearchChildren
+ WinTextMatchMode
+ WinTitleMatchMode
+ WinWaitDelay
+ </param>
+	<param name="Value">The parameter (varies by option). See Remarks in help documentation.</param>
+	<returns></returns>
+</member><member name="M:NextBook.AutoItX.AU3_BlockInput(System.Int32)">
+	<summary>
+ Disable/enable the mouse and keyboard.
+ </summary>
+	<param name="Flag">1 = Disable user input
+ 0 = Enable user input</param>
+</member><member name="M:NextBook.AutoItX.AU3_CDTray(System.String,System.String)">
+	<summary>
+ Opens or closes the CD tray.
+ </summary>
+	<param name="Drive">The drive letter of the CD tray to control, in the format D:, E:, etc.</param>
+	<param name="Action">Specifies if you want the CD tray to be open or closed: "open" or "closed"</param>
+	<returns>Success: Returns 1.
+ Failure: Returns 0 if drive is locked via CD burning software or if the drive letter is not a CD drive. </returns>
+</member><member name="M:NextBook.AutoItX.AU3_ClipGet(System.Text.StringBuilder,System.Int32)">
+	<summary>
+ Get text from the clipboard into a string.
+ Use like this:
+StringBuilder clip = new StringBuilder();
+clip.Length = 4;
+AutoItX3Declarations.AU3_ClipGet(clip,clip.Length);
+MessageBox.Show(clip.ToString());
+ </summary>
+	<param name="Clip">Retrieves text from the clipboard.</param>
+	<param name="BufSize">Maximum length of string provided</param>
+</member><member name="M:NextBook.AutoItX.AU3_ClipPut(System.String)">
+	<summary>
+ Writes text to the clipboard.
+ </summary>
+	<param name="Clip">The text to write to the clipboard.</param>
+</member><member name="M:NextBook.AutoItX.AU3_ControlFocus(System.String,System.String,System.String)">
+	<summary>
+ Sets input focus to a given control on a window.
+ </summary>
+	<param name="Title">The title of the window to access..  (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">The text of the window to access.</param>
+	<param name="Control">The control to interact with. See Controls.</param>
+	<returns>Success: Returns 1.
+ Failure: Returns 0.
+ </returns>
+</member><member name="M:NextBook.AutoItX.AU3_ControlSend(System.String,System.String,System.String,System.String,System.Int32)">
+	<summary>
+	</summary>
+	<param name="Title">The title of the window to access..  (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">The text of the window to access.</param>
+	<param name="Control">The control to interact with. See Controls.</param>
+	<param name="SendText">String of characters to send to the control.</param>
+	<param name="Mode">flag = 0 (default), Text contains special characters like + to indicate SHIFT and {LEFT} to indicate left arrow.
+ flag = 1, keys are sent raw.</param>
+	<returns>Success: Returns 1. Fail returns 0</returns>
+</member><member name="M:NextBook.AutoItX.AU3_ControlSetText(System.String,System.String,System.String,System.String)">
+	<summary>
+ Sends a string of characters to a control.
+ </summary>
+	<param name="Title">The title of the window to access..  (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">The text of the window to access.</param>
+	<param name="Control">The control to interact with. See Controls.</param>
+	<param name="ControlText">The new text to be set into the control.</param>
+	<returns></returns>
+</member><member name="M:NextBook.AutoItX.AU3_IniDelete(System.String,System.String,System.String)">
+	<summary>
+ Deletes a value from a standard format .ini file.
+ </summary>
+	<param name="Filename">The filename of the .ini file.</param>
+	<param name="Section">The section name in the .ini file.</param>
+	<param name="Key">Optional: The key name in the in the .ini file. If no key name is given the entire section is deleted.</param>
+	<returns>Success: Returns 1.
+ Failure: Returns 0 if section/key is not found or if INI file is read-only.
+ </returns>
+</member><member name="M:NextBook.AutoItX.AU3_IniRead(System.String,System.String,System.String,System.String,System.Text.StringBuilder,System.Int32)">
+	<summary>
+ Reads a value from a standard format .ini file.  (See ClipGet for example of StringBuilder use)
+ </summary>
+	<param name="Filename">The filename of the .ini file.</param>
+	<param name="Section">The section name in the .ini file.</param>
+	<param name="Key">The key name in the in the .ini file.</param>
+	<param name="Default">The default value to return if the requested key is not found.</param>
+	<param name="Value">The value returned as a StringBuilder</param>
+	<param name="BufSize">The size of the string</param>
+</member><member name="M:NextBook.AutoItX.AU3_IniWrite(System.String,System.String,System.String,System.String)">
+	<summary>
+ Writes a value to a standard format .ini file.
+ </summary>
+	<param name="Filename">The filename of the .ini file.</param>
+	<param name="Section">The section name in the .ini file.</param>
+	<param name="Key">The key name in the in the .ini file.</param>
+	<param name="Value">The value to write/change.</param>
+	<returns>Success: Returns 1.
+ Failure: Returns 0 if file is read-only.
+ </returns>
+</member><member name="M:NextBook.AutoItX.AU3_MouseClick(System.String,System.Int32,System.Int32,System.Int32,System.Int32)">
+	<summary>
+ Perform a mouse click operation.
+ </summary>
+	<param name="Button">The button to click: "left", "right", "middle", "main", "menu", "primary", "secondary".</param>
+	<param name="x">(Present position Can be gotten from AU3_MouseGetPosX()) The x/y coordinates to move the mouse to. If no x and y coords are given, the current position is used.</param>
+	<param name="y">(Present position Can be gotten from AU3_MouseGetPosY()) The x/y coordinates to move the mouse to. If no x and y coords are given, the current position is used.</param>
+	<param name="clicks">Optional: The number of times to click the mouse. Default is 1.</param>
+	<param name="speed">Optional: the speed to move the mouse in the range 1 (fastest) to 100 (slowest). A speed of 0 will move the mouse instantly. Default speed is 10.</param>
+	<returns>No return value</returns>
+</member><member name="M:NextBook.AutoItX.AU3_PixelGetColor(System.Int32,System.Int32)">
+	<summary>
+ Returns a pixel color according to x,y pixel coordinates.
+ </summary>
+	<param name="X">x coordinate of pixel.</param>
+	<param name="Y">y coordinate of pixel.</param>
+	<returns>Success: Returns decimal value of pixel's color.
+Failure: Returns -1 if invalid coordinates.
+</returns>
+</member><member name="M:NextBook.AutoItX.AU3_PixelSearch(System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32,System.Int32[])">
+	<summary>
+ Searches a rectangle of pixels for the pixel color provided.  It will crash if the color is not found.  (See AutoItX3Declarations.cs for details)
+ </summary>
+	<param name="Left">left coordinate of rectangle.</param>
+	<param name="Top">top coordinate of rectangle.</param>
+	<param name="Right">right coordinate of rectangle.</param>
+	<param name="Bottom">bottom coordinate of rectangle.</param>
+	<param name="Color">Colour value of pixel to find (in decimal or hex).</param>
+	<param name="Shade">A number between 0 and 255 to indicate the allowed number of shades of variation of the red, green, and blue components of the colour. Default is 0 (exact match).</param>
+	<param name="Step">Instead of searching each pixel use a value larger than 1 to skip pixels (for speed). E.g. A value of 2 will only check every other pixel. Default is 1.</param>
+	<param name="PointResult">Success: Returns a 2 element array containing the pixel's coordinates
+ Failure: Sets oAutoIt.error to 1 if color is not found. (apparently this is actually causing an exception)
+</param>
+</member><member name="M:NextBook.AutoItX.AU3_Run(System.String,System.String,System.Int32)">
+	<summary>
+ Runs an external program.
+ </summary>
+	<param name="Run">The name of the executable (EXE, BAT, COM, or PIF) to run.</param>
+	<param name="Dir">Optional: The working directory.</param>
+	<param name="ShowFlags">Optional: The "show" flag of the executed program:
+SW_HIDE = Hidden window
+SW_MINIMIZE = Minimized window
+SW_MAXIMIZE = Maximized window</param>
+	<returns>Success: The PID of the process that was launched., Failure: 1</returns>
+</member><member name="M:NextBook.AutoItX.AU3_RunWait(System.String,System.String,System.Int32)">
+	<summary>
+ Runs an external program and pauses script execution until the program finishes.
+ </summary>
+	<param name="Run">The name of the executable (EXE, BAT, COM, or PIF) to run.</param>
+	<param name="Dir">Optional: The working directory.</param>
+	<param name="ShowFlags">Optional: The "show" flag of the executed program:
+SW_HIDE = Hidden window
+SW_MINIMIZE = Minimized window
+SW_MAXIMIZE = Maximized window</param>
+	<returns>Success: Returns the exit code of the program that was run., Failure: 1</returns>
+</member><member name="M:NextBook.AutoItX.AU3_Send(System.String,System.Int32)">
+	<summary>
+ Sends simulated keystrokes to the active window.
+ </summary>
+	<param name="SendText">The sequence of keys to send.</param>
+	<param name="Mode">0 (default), Text contains special characters like + and ! to indicate SHIFT and ALT key presses.
+ flag = 1, keys are sent raw.</param>
+</member><member name="M:NextBook.AutoItX.AU3_Sleep(System.Int32)">
+	<summary>
+ Pause script execution.
+ </summary>
+	<param name="Milliseconds">Amount of time to pause (in milliseconds).</param>
+</member><member name="M:NextBook.AutoItX.AU3_ToolTip(System.String,System.Int32,System.Int32)">
+	<summary>
+ Creates a tooltip anywhere on the screen.
+ </summary>
+	<param name="Tip">The text of the tooltip. (An empty string clears a displaying tooltip)</param>
+	<param name="X">The x,y position of the tooltip.</param>
+	<param name="Y">The x,y position of the tooltip.</param>
+</member><member name="M:NextBook.AutoItX.AU3_WinActive(System.String,System.String)">
+	<summary>
+ Checks to see if a specified window exists and is currently active.
+ </summary>
+	<param name="Title">The title of the window to activate.   (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">Optional: The text of the window to activate.</param>
+	<returns>Success: Returns 1.
+ Failure: Returns 0 if window is not active. </returns>
+</member><member name="M:NextBook.AutoItX.AU3_WinClose(System.String,System.String)">
+	<summary>
+ Closes a window.
+ </summary>
+	<param name="Title">The title of the window to close.  (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">Optional: The text of the window to close.</param>
+	<returns></returns>
+</member><member name="M:NextBook.AutoItX.AU3_WinExists(System.String,System.String)">
+	<summary>
+ Checks to see if a specified window exists.
+ </summary>
+	<param name="Title">The title of the window to check..  (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">Optional: The text of the window to check.</param>
+	<returns></returns>
+</member><member name="M:NextBook.AutoItX.AU3_WinWait(System.String,System.String,System.Int32)">
+	<summary>
+ Pauses execution of the script until the requested window exists.
+ </summary>
+	<param name="Title">The title of the window to check.  (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">Optional: The text of the window to check.</param>
+	<param name="Timeout">Optional: Timeout in seconds</param>
+	<returns>Success: Returns 1.
+ Failure: Returns 0 if timeout occurred.
+ </returns>
+</member><member name="M:NextBook.AutoItX.AU3_WinWaitActive(System.String,System.String,System.Int32)">
+	<summary>
+ Pauses execution of the script until the requested window is active.
+ </summary>
+	<param name="Title">The title of the window to check.  (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">Optional: The text of the window to check.</param>
+	<param name="Timeout">Optional: Timeout in seconds</param>
+	<returns>Success: Returns 1.
+ Failure: Returns 0 if timeout occurred.
+ </returns>
+</member><member name="M:NextBook.AutoItX.AU3_WinWaitClose(System.String,System.String,System.Int32)">
+	<summary>
+ Pauses execution of the script until the requested window does not exist.
+ </summary>
+	<param name="Title">The title of the window to check.  (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">Optional: The text of the window to check.</param>
+	<param name="Timeout">Optional: Timeout in seconds</param>
+	<returns>Success: Returns 1.
+ Failure: Returns 0 if timeout occurred.
+ </returns>
+</member><member name="M:NextBook.AutoItX.AU3_WinWaitNotActive(System.String,System.String,System.Int32)">
+	<summary>
+ Pauses execution of the script until the requested window is not active.
+ </summary>
+	<param name="Title">The title of the window to check.  (See WinTitleMatchMode under AutoItSetOption)</param>
+	<param name="Text">Optional: The text of the window to check.</param>
+	<param name="Timeout">Optional: Timeout in seconds</param>
+	<returns>Success: Returns 1.
+ Failure: Returns 0 if timeout occurred.
+ </returns>
+</member><member name="P:NextBook.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:NextBook.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:NextBook.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
